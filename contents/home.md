@@ -1,13 +1,10 @@
 
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
-
 #### Email
-sli[at]cumt.edu.cn
+idjyiq[at]gmail.com
 
 #### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
-
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2017.08 - 2021.06, Bachelor, Computer Science and Technology, Guangdong University of Foreign Studies.
+2019.07 - 2020.05, Visting Student, Computer Science and Technology, University of Machester.
 
 #### Research Intersts
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Cloud Computing, Distributed system
